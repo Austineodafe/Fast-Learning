@@ -1,0 +1,2 @@
+# Fast-Learning
+Learning Fast
